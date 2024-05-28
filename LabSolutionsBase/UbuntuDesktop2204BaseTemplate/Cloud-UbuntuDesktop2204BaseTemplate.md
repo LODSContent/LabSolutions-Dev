@@ -1,0 +1,1 @@
+There are no cloud settings in this lab profile.
