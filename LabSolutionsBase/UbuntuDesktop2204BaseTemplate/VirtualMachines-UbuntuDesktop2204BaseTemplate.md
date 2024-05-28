@@ -17,7 +17,7 @@
 
 - **Optimizations:**
 
->[+] The following optimizations are based upon the standards established in the [Basic Lab Developer Training](https://labondemand.com/LabProfile/Instructions/132658?instructionsSetId=227922#lab-optimisation) documentation.
+>[+] The following optimizations are based upon the standards established in the [Basic Lab Developer Training](https://labondemand.com/LabProfile/Instructions/132658?instructionsSetId=227922#lab-optimization) documentation.
 >
 >- Updated Ubuntu:
 >
