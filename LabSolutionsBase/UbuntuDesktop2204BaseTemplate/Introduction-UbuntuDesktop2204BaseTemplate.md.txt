@@ -1,0 +1,5 @@
+@lab.Title
+
+Ubuntu 22.04, aka Jammy Jellyfish, is the latest (26th) Ubuntu release from Canonical. It is a long term supported (LTS) and has Extended Security Maintenance (ESM) for 10 years. 
+
+These instructions will serve as an inventory of the configuration and details included in this lab build.
