@@ -10,10 +10,10 @@
     | Platform | **ESX** |
     | OS | **Ubuntu Desktop v22.04** |
     | IP Address   | **DHCP**   |
-    | CPU(s) | **4** |
-    | RAM | **4 GB** |
-    | HD 1 | **100 GB** |
-    | NIC(s) | **2** |
+    | CPU(s) | +++4+++ |
+    | RAM | +++4 GB+++ |
+    | HD 1 | +++100 GB+++ |
+    | NIC(s) | +++2+++ |
 
 - **Optimizations:**
 
