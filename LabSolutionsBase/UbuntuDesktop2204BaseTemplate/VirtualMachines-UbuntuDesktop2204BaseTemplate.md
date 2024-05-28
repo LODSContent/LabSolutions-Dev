@@ -1,6 +1,3 @@
-## Virtual Machines:
-
-<br>
 #### LAMP VM
 
 - Configuration:
