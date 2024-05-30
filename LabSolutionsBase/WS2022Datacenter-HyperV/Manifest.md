@@ -7,18 +7,18 @@ The virtual machines and profile attributes within this foundational environment
 
 >[+] VM Configuration
 >
-    | Item | Detail |
-    |:---------|:---------|
-    | User | +++@lab.VirtualMachine(WS2022 Datacenter).Username+++ |
-    | Password | +++@lab.VirtualMachine(WS2022 Datacenter).Password+++ |
-    | Name   | **WS2022 Base** |
-    | Platform | **Hyper-V** |
-    | OS | **Windows** |
-    | IP Address   | **DHCP**   |
-    | CPU(s) | +++4+++ |
-    | RAM | +++4.5+++ GB |
-    | HD 1 | +++100+++ GB |
-    | NIC(s) | +++1+++ |
+| Item | Detail |
+|:---------|:---------|
+| User | +++@lab.VirtualMachine(WS2022 Datacenter).Username+++ |
+| Password | +++@lab.VirtualMachine(WS2022 Datacenter).Password+++ |
+| Name   | **WS2022 Base** |
+| Platform | **Hyper-V** |
+| OS | **Windows** |
+| IP Address   | **DHCP**   |
+| CPU(s) | +++4+++ |
+| RAM | +++4.5+++ GB |
+| HD 1 | +++100+++ GB |
+| NIC(s) | +++1+++ |
 
 >[+]  VM Optimizations
 >
@@ -128,8 +128,29 @@ The virtual machines and profile attributes within this foundational environment
 |Microsoft Visual C++ 2022 X86 Additional Runtime - 14.38.33135|     **14.38.33135**|    Microsoft Corporation|     
 |Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.38.33135| **14.38.33135.0**|  Microsoft Corporation| 
 
+>[!hint] Want to learn more? Review the documentation on [Building virtual machines](https://docs.skillable.com/v1/docs/best-practices-for-building-virtual-machines) on our platform.
+
 ## Networks
 
+- **WebNAT**
+
+>[+] Network Configuration
+>
+|Item|Detail|
+|:----|:----|
+|Type|**Web Access (NAT)**|
+|Gateway|+++192.168.100.1+++|
+|Subnet Mask|+++255.255.255.0+++|
+|DHCP Enabled|+++192.168.100.100+++ to +++192.168.100.200+++|
+
+>[!hint] Want to learn more? Review the documentation on [Networking](https://docs.skillable.com/v1/docs/implementing-network-policies-and-managing-restrictions-for-lab-environments) in a lab profile.
+
 ## Cloud
+There are no Cloud settings in this lab profile.
+
+>[!hint] Want to learn more? Review the documentation on [Skillable Cloud Fabrics](https://docs.skillable.com/docs/cloud-fabric-explanation).
 
 ## Life Cycle
+This lab profile contains a Life Cycle Action to implement licensing for the Windows Server virtual machine.
+
+>[!hint] Want to learn more? Review the documentation on [Life Cycle Actions](https://docs.skillable.com/docs/life-cycle-actions-5).
