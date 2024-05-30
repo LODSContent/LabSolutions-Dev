@@ -1,1 +1,0 @@
-This is a base cloud template with no resources deployed.
