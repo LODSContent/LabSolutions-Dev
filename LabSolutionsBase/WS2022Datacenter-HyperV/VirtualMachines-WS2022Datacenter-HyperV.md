@@ -18,7 +18,7 @@ WS2022 BASE
 
 **Optimizations:**
 
->[+]  The following optimizations are based upon the standards established in the [Basic Lab Developer Training](https://labondemand.com/LabProfile/Instructions/132658?instructionsSetId=227922#lab-optimisation) documentation.
+>[+]  The following optimizations have been performed on the VM.
 >
 > - Skillable Integration\VMware tools 12.3 installed.
 >
