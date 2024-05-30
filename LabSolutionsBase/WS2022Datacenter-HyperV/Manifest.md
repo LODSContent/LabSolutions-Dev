@@ -1,4 +1,5 @@
 ===
+
 # Lab Profile Manifest{labprofilemanifest}
 The virtual machines and profile attributes within this foundational environment are delineated as follows: virtual machine configurations, network parameters, and any pertinent cloud-specific settings or lifecycle actions relevant to this context.
 
