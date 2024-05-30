@@ -1,4 +1,3 @@
-===
 # Using this lab template{usingthislabtemplate}
 
 This template has been provided as a starting point for lab creation. In many cases modifications are required to meet the specific needs of your lab goals. Below are some of the details that can be used to customize the environment:
