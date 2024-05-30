@@ -1,0 +1,1 @@
+There are no virtual machine settings in this lab profile.

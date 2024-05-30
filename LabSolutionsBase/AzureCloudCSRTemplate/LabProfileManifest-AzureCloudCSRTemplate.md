@@ -1,0 +1,1 @@
+The configuration of the laboratory profile and cloud parameters for this foundational environment is outlined below. The specifics encompass relevant settings pertaining to both the cloud infrastructure and the lab profile, which may have relevance within this context.
