@@ -1,0 +1,1 @@
+In the context of this base environment, we delve into the specifics of both virtual machines and lab profiles. These details encompass the intricacies of container configuration, network settings, and any relevant cloud-specific parameters or lifecycle actions that may apply to this environment.
