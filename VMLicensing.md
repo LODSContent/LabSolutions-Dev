@@ -9,8 +9,10 @@ Windows licensing will vary from template to template, and even from VM to VM wi
     > [!ALERT] This will incur charges for ALL virtual machines in a lab profile (including non-Windows machines) at a rate according to your customer contract.
 - Windows 10 virtual machines will be supplied with the **Enterprise** edition of Windows. This means that virtual machines will never shut themselves down due to too much time running without a license.
     - However, these virtual machines should be licensed by you based on the licensing requirements between your organization and Microsoft.
->[!knowledge] For more information, review the documentation on [Windows licensing](https://docs.skillable.com/docs/windows-licensing) on our platform.
+>
+> For more information, review the documentation on [Windows licensing](https://docs.skillable.com/docs/windows-licensing) on our platform.
 
 >[+] Linux Virtual Machines
 >
-Distributions of Linux provided in your template will utilize open source licensing, and therefore are ready to go on launch!
+Distributions of Linux provided in your template will utilize open source licensing, and therefore do not require any special configuration.
+
