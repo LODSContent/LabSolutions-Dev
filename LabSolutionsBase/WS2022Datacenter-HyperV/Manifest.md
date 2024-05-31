@@ -14,8 +14,8 @@ The virtual machines and profile attributes within this foundational environment
 | Platform | **Hyper-V** |
 | OS | **Windows** |
 | IP Address   | **DHCP**   |
-| CPU(s) | +++4+++ |
-| RAM | +++4.5+++ GB |
+| CPU(s) | +++2+++ |
+| RAM | +++4+++ GB |
 | HD 1 | +++100+++ GB |
 | NIC(s) | +++1+++ |
 
