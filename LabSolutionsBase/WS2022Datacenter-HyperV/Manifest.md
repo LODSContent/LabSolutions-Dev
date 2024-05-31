@@ -6,18 +6,13 @@
 
 >[+] VM Configuration
 >
-| Item | Detail |
-|:---------|:---------|
-| User | **@lab.VirtualMachine(Server1).Username** |
-| Password | **@lab.VirtualMachine(Server1).Password** |
-| Name   | **WS2022 Base** |
-| Platform | **Hyper-V** |
-| OS | **Windows** |
-| IP Address   | **DHCP**   |
-| CPU(s) | **2** |
-| RAM | **4 GB** |
-| HD 1 | **100 GB** |
-| NIC(s) | **1** |
+| Item | Detail | | Item | Detail |
+|:---------|:---------| |:---------|:---------|
+| User | **@lab.VirtualMachine(Server1).Username** | | IP Address   | **DHCP**   |
+| Password | **@lab.VirtualMachine(Server1).Password** | | CPU(s) | **2** |
+| Name   | **Server1** | | RAM | **4 GB** |
+| Platform | **Hyper-V** | | HD 1 | **100 GB** |
+| OS | **Windows** | | NIC(s) | **1** |
 
 >[+]  VM Optimizations
 - Skillable Integration\VMware tools 12.3 installed.
