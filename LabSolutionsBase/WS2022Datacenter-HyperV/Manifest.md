@@ -8,8 +8,8 @@
 >
 | Item | Detail |
 |:---------|:---------|
-| User | **@lab.VirtualMachine(WS2022 Datacenter).Username** |
-| Password | **@lab.VirtualMachine(WS2022 Datacenter).Password** |
+| User | **@lab.VirtualMachine(Server1).Username** |
+| Password | **@lab.VirtualMachine(Server1).Password** |
 | Name   | **WS2022 Base** |
 | Platform | **Hyper-V** |
 | OS | **Windows** |
