@@ -1,8 +1,8 @@
-# Lab Profile Manifest
+## Lab Profile Manifest
 
-## Virtual Machines
+### Virtual Machines
 
-### WS2022 BASE
+#### WS2022 BASE
 
 >[+] VM Configuration
 >
@@ -79,11 +79,9 @@
 |Microsoft Visual C++ 2022 X86 Additional Runtime - 14.38.33135|     **14.38.33135**|    Microsoft Corporation|     
 |Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.38.33135| **14.38.33135.0**|  Microsoft Corporation| 
 
->[!hint] Want to learn more? Review the documentation on [Building virtual machines](https://docs.skillable.com/v1/docs/best-practices-for-building-virtual-machines) on our platform.
+### Networks
 
-## Networks
-
-### WebNAT
+#### WebNAT
 
 >[+] Network Configuration
 >
@@ -94,16 +92,8 @@
 |Subnet Mask|+++255.255.255.0+++|
 |DHCP Enabled|+++192.168.100.100+++ to +++192.168.100.200+++|
 
->[!hint] Want to learn more? Review the documentation on [Networking](https://docs.skillable.com/v1/docs/implementing-network-policies-and-managing-restrictions-for-lab-environments) in a lab profile.
-
-## Cloud
+### Cloud
 There are no Cloud settings in this lab profile.
 
->[!hint] Want to learn more? Review the documentation on [Skillable Cloud Fabrics](https://docs.skillable.com/docs/cloud-fabric-explanation).
-
-## Life Cycle
+### Life Cycle
 This lab profile contains a Life Cycle Action to implement licensing for the Windows Server virtual machine.
-
->[!hint] Want to learn more? Review the documentation on [Life Cycle Actions](https://docs.skillable.com/docs/life-cycle-actions-5).
-
-
