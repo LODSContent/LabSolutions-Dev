@@ -45,4 +45,6 @@ AWS environments will require settings such as User Accounts, Stack Deployments,
 >
 > For more information, review the documentation on [AWS Cloud Settings](https://docs.skillable.com/docs/enable-aws-cloud-slice-support). 
 
-
+>[+] Hybrid lab environments
+>
+Skillable also supports building Hybrid labs these are created either by adding one or more Virtual Machines or Containers to a Cloud lab or by adding a Cloud environment to a Virtual Machine or Container Lab Profile. Depending on what needs to be modified see the relevant preceding section.
