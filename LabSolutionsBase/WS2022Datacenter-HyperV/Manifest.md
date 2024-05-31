@@ -91,4 +91,4 @@
 There are no Cloud settings in this lab profile.
 
 ### Life Cycle
-This lab profile contains a Life Cycle Action to implement licensing for the Windows Server virtual machine.
+There are no Life Cycle settings in this lab profile.
