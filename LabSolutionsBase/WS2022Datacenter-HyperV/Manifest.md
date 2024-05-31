@@ -1,4 +1,4 @@
-# Lab Profile Manifest{labprofilemanifest}
+# Lab Profile Manifest
 
 ## Virtual Machines
 
@@ -8,16 +8,16 @@
 >
 | Item | Detail |
 |:---------|:---------|
-| User | +++@lab.VirtualMachine(WS2022 Datacenter).Username+++ |
-| Password | +++@lab.VirtualMachine(WS2022 Datacenter).Password+++ |
+| User | **@lab.VirtualMachine(WS2022 Datacenter).Username** |
+| Password | **@lab.VirtualMachine(WS2022 Datacenter).Password** |
 | Name   | **WS2022 Base** |
 | Platform | **Hyper-V** |
 | OS | **Windows** |
 | IP Address   | **DHCP**   |
-| CPU(s) | +++2+++ |
-| RAM | +++4+++ GB |
-| HD 1 | +++100+++ GB |
-| NIC(s) | +++1+++ |
+| CPU(s) | **2** |
+| RAM | **4 GB** |
+| HD 1 | **100 GB** |
+| NIC(s) | **1** |
 
 >[+]  VM Optimizations
 - Skillable Integration\VMware tools 12.3 installed.
@@ -105,3 +105,5 @@ There are no Cloud settings in this lab profile.
 This lab profile contains a Life Cycle Action to implement licensing for the Windows Server virtual machine.
 
 >[!hint] Want to learn more? Review the documentation on [Life Cycle Actions](https://docs.skillable.com/docs/life-cycle-actions-5).
+
+
