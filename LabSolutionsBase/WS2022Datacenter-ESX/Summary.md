@@ -1,0 +1,1 @@
+The **WS2022 Datacenter** VM in this profile is configured in a workgroup with internet access enabled, 2 VCPU's and 4GB of RAM. The operating system has been optimized for performance in the lab environment and updated with the latest patches and updates.
