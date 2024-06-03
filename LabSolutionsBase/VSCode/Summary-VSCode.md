@@ -1,1 +1,1 @@
-The **VS Code** VM in this profile is configured in a workgroup with internet access enabled and 2 VCPU's. The operating system has been optimized for performance in the lab environment and updated with the latest patches and updates.
+The container in this profile is configured to run VScode with internet access enabled. The graphical front-end for VSCode is accessible from within the lab environment.
