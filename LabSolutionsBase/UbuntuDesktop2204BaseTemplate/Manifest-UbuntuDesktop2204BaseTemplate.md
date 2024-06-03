@@ -4,24 +4,18 @@
 
 #### LAMP VM
 
-- Configuration:
+>[+] VM Configuration
+>
+    | Item | Detail | | Item | Detail |
+    |:---------|:---------| |:---------|:---------|
+    | User | +++@lab.VirtualMachine(ubuntudesktop22.04).Username+++ | | IP Address   | **DHCP**   |
+    | Password | +++@lab.VirtualMachine(ubuntudesktop22.04).Password+++ | | CPU(s) | **4** |
+    | Name   | **labuser-virtual-machine** | | RAM | **4 GB** |
+    | Platform | **ESX** | | HD 1 | **100 GB** |
+    | OS | **Ubuntu Desktop v22.04** | | NIC(s) | **2** |
 
-    | Item | Detail |
-    |:---------|:---------|
-    | User | +++@lab.VirtualMachine(ubuntudesktop22.04).Username+++ |
-    | Password | +++@lab.VirtualMachine(ubuntudesktop22.04).Password+++ |
-    | Name   | labuser-virtual-machine   |
-    | Platform | ESX |
-    | OS | Ubuntu Desktop v22.04 |
-    | IP Address   | DHCP   |
-    | CPU(s) | 4 |
-    | RAM | 4 GB |
-    | HD 1 | 100 GB |
-    | NIC(s) | 2 |
 
-- Optimizations:
-
->[+] The following optimizations are based upon the standards established in the [Basic Lab Developer Training](https://labondemand.com/LabProfile/Instructions/132658?instructionsSetId=227922#lab-optimisation) documentation.
+>[+]  VM Optimizations
 >
 - Updated Ubuntu:
 >
@@ -50,7 +44,7 @@
 
 ### Software
 
-- This is a base VM with basic tools and Python language available. There are no additional tools currently on this machine. 
+This is a base VM with basic tools and Python language available. There are no additional tools currently on this machine. 
 
 ### Networks
 
@@ -60,10 +54,10 @@
 >
 |Item|Detail|
 |:----|:----|
-|Type|Web Access (NAT)|
-|Gateway|192.168.100.1|
-|Subnet Mask|255.255.255.0|
-    |DHCP Enabled|192.168.100.100 to 192.168.100.200|
+|Type|**Web Access (NAT)**|
+|Gateway|**192.168.100.1**|
+|Subnet Mask|**255.255.255.0**|
+|DHCP Enabled|**192.168.100.100** to **192.168.100.200**|
 
 ### Cloud
 There are no Cloud settings in this lab profile.
