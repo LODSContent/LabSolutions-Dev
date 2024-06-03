@@ -8,8 +8,8 @@
 >
 | Item | Detail | | Item | Detail |
 |:---------|:---------| |:---------|:---------|
-| User | **@lab.VirtualMachine(Server1).Username** | | IP Address   | **DHCP**   |
-| Password | **@lab.VirtualMachine(Server1).Password** | | CPU(s) | **2** |
+| User | +++@lab.VirtualMachine(Server1).Username+++ | | IP Address   | **DHCP**   |
+| Password | +++@lab.VirtualMachine(Server1).Password+++ | | CPU(s) | **2** |
 | Name   | **Server1** | | RAM | **4 GB** |
 | Platform | **Hyper-V** | | HD 1 | **100 GB** |
 | OS | **Windows** | | NIC(s) | **1** |
