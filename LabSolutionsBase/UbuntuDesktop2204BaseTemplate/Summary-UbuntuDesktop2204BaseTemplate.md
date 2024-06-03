@@ -1,0 +1,1 @@
+The **Ubuntu Desktop 22.04 Base** VM in this profile is configured in a workgroup with internet access enabled, 4 VCPU's and 4 GB of RAM. The operating system has been optimized for performance in the lab environment and updated with the latest patches and updates.
