@@ -4,7 +4,7 @@
 
 #### VS Code
 
->[+] Configuration
+>[+] Container Configuration
 >
 | Item | Detail | | Item | Detail |
 |:---------|:---------| |:---------|:---------|
@@ -13,7 +13,7 @@
 | Name   | **VS Code** | | RAM | **2 GB** |
 | Platform | **Docker** |
 
->[+] Software
+>[+] Container Software
 >
 >**VS Code**
 >
