@@ -4,7 +4,7 @@
 
 #### LAMP VM
 
->[+] VM Configuration
+>[+] **VM Configuration:**
 >
 | Item | Detail | | Item | Detail |
 |:---------|:---------| |:---------|:---------|
@@ -15,7 +15,7 @@
 | OS | **Ubuntu Desktop v22.04** | | NIC(s) | **2** |
 
 
->[+]  VM Optimizations
+>[+]  **VM Optimizations:**
 >
 - Updated Ubuntu:
 >
@@ -42,7 +42,7 @@
     ```
 - Cleared history: ++history -c++
 
->[+]  Software
+>[+]  **Software:**
 >
 This is a base VM with basic tools and Python language available. There are no additional tools currently on this machine. 
 
@@ -50,7 +50,7 @@ This is a base VM with basic tools and Python language available. There are no a
 
 #### WebNAT
 
->[+] Network Configuration
+>[+] **Network Configuration:**
 >
 |Item|Detail|
 |:----|:----|
