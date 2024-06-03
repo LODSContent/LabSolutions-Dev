@@ -6,14 +6,13 @@
 
 >[+] Container Configuration
 >
-| Item | Detail |
-|:---------|:---------|
-| User | +++empty+++ |
-| Password | +++PASSWORD+++ |
-| Name   | **jupyter/base-notebook** |
+| Item | Detail | | Item | Detail |
+|:---------|:---------| |:---------|:---------|
+| User | **empty** | | IP Address   | **DHCP** |
+| Password | +++PASSWORD+++ | | CPU(s) | **2** |
+| Name   | **jupyter/base-notebook** | | RAM | **2 GB** |
 | Platform | **Docker** |
-| IP Address   | **DHCP** |
-| CPU(s) | +++2+++ |
+
 
 Want to learn more? Review the documentation on [Jupyter](https://jupyter.org/).
 
