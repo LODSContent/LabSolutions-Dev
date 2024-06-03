@@ -6,13 +6,13 @@
 
 >[+] VM Configuration
 >
-    | Item | Detail | | Item | Detail |
-    |:---------|:---------| |:---------|:---------|
-    | User | +++@lab.VirtualMachine(ubuntudesktop22.04).Username+++ | | IP Address   | **DHCP**   |
-    | Password | +++@lab.VirtualMachine(ubuntudesktop22.04).Password+++ | | CPU(s) | **4** |
-    | Name   | **labuser-virtual-machine** | | RAM | **4 GB** |
-    | Platform | **ESX** | | HD 1 | **100 GB** |
-    | OS | **Ubuntu Desktop v22.04** | | NIC(s) | **2** |
+ | Item | Detail | | Item | Detail |
+ |:---------|:---------| |:---------|:---------|
+ | User | +++@lab.VirtualMachine(ubuntudesktop22.04).Username+++ | | IP Address   | **DHCP**   |
+ | Password | +++@lab.VirtualMachine(ubuntudesktop22.04).Password+++ | | CPU(s) | **4** |
+ | Name   | **labuser-virtual-machine** | | RAM | **4 GB** |
+ | Platform | **ESX** | | HD 1 | **100 GB** |
+ | OS | **Ubuntu Desktop v22.04** | | NIC(s) | **2** |
 
 
 >[+]  VM Optimizations
