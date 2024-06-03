@@ -1,6 +1,6 @@
 ## Lab Profile Manifest
 
-### Virtual Machines
+### Containers
 
 #### Jupyter
 
