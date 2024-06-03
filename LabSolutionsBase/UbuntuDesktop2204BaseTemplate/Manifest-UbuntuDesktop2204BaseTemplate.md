@@ -42,8 +42,8 @@
     ```
 - Cleared history: ++history -c++
 
-### Software
-
+>[+]  Software
+>
 This is a base VM with basic tools and Python language available. There are no additional tools currently on this machine. 
 
 ### Networks
