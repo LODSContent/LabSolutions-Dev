@@ -1,1 +1,1 @@
-The **Jupyter** VM in this profile is configured in a workgroup with internet access enabled and 2 VCPU's. The operating system has been optimized for performance in the lab environment and updated with the latest patches and updates.
+The container in this profile is configured to run Jupyter with 2vCPUs, 2GB of RAM and internet access enabled. The graphical front-end for Jupyter is accessible from within the lab environment.
