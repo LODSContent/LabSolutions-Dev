@@ -15,7 +15,7 @@
 
 
 ### Resource Templates
->
+
 >[+] For Azure cloud labs, Resource Templates are implemented through Azure Resource Manager (ARM) Templates. 
 >
 >There are no ARM Templates in this base profile to deploy resources. Learn more about the types of resources you can deploy using [ARM Templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview) in this profile. 
