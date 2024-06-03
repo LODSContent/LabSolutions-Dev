@@ -1,0 +1,1 @@
+The container in this profile is configured to run GCP Cloud labs with 2vCPUs, 2GB of RAM and internet access enabled. The graphical front-end for GCP Cloud is accessible from within the lab environment.
