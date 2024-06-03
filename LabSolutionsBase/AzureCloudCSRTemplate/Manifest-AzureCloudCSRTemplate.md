@@ -9,9 +9,9 @@
 | Item | Detail |
 |:---------|:---------|
 | Platform | **Azure** |
-| User | +++@lab.CloudPortalCredential(User1).Username+++ |
+| User | **@lab.CloudPortalCredential(User1).Username** |
 | Password | +++@lab.CloudPortalCredential(User1).Password+++ |
-| Resource Group | ++@lab.CloudResourceGroup(ResourceGroup1).Name++|
+| Resource Group | **@lab.CloudResourceGroup(ResourceGroup1).Name**|
 
 
 ### Resource Templates
