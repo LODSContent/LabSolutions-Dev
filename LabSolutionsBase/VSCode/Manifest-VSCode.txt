@@ -6,14 +6,14 @@
 
 >[+] Container Configuration
 >
-| Item | Detail |
-|:---------|:---------|
-| User | +++empty+++ |
-| Password | +++PASSWORD+++ |
+| Item | Detail | | Item | Detail |
+|:---------|:---------| |:---------|:---------|
+| User | +++empty+++ | | CPU(s) | **2** |
+| Password | +++PASSWORD+++ | | RAM | **2 GB** |
 | Name   | **VS Code** |
 | Platform | **Docker** |
 | IP Address   | **DHCP** |
-| CPU(s) | +++2+++ |
+
 
 >[+] VM Software
 >
@@ -32,9 +32,9 @@
 |Item|Detail|
 |:----|:----|
 |Type|**Web Access (NAT)**|
-|Gateway|+++192.168.100.1+++|
-|Subnet Mask|+++255.255.255.0+++|
-|DHCP Enabled|+++192.168.100.100+++ to +++192.168.100.200+++|
+|Gateway|**192.168.100.1**|
+|Subnet Mask|**255.255.255.0**|
+|DHCP Enabled|**192.168.100.100** to **192.168.100.200**|
 
 ### Cloud
 There are no Cloud settings in this lab profile.
