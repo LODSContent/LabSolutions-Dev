@@ -1,14 +1,14 @@
 ## Lab Profile Manifest
 
-### Virtual Machines
+### Cloud Settings
 
 #### Azure Cloud CSR
->[+] Container Configuration
+>[+] Cloud Configuration
 >
 | Item | Detail |
 |:---------|:---------|
 | Platform | **Azure** |
-| User | **@lab.CloudPortalCredential(User1).Username** |
+| User | +++@lab.CloudPortalCredential(User1).Username+++ |
 | Password | +++@lab.CloudPortalCredential(User1).Password+++ |
 | Resource Group | **@lab.CloudResourceGroup(ResourceGroup1).Name**|
 
