@@ -19,7 +19,7 @@ Want to learn more? Review the documentation on [Jupyter](https://jupyter.org/).
 
 >[+] VM Software
 >
->This is a base VM with basic tools and Python language available. There are no additional tools currently on this machine. 
+>This is a Jupyter container with basic tools and Python language available. For more details, see the [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) documentation. 
 
 
 ### Networks
