@@ -1,1 +1,1 @@
-This profile is configured to run GCP cloud labs using a customer provided subscription pool.
+This profile is configured to run AWS cloud labs using a customer provided subscription pool.
