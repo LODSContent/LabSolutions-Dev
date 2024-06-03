@@ -24,14 +24,14 @@
 >
 >The only policy on this base profile is a **Deny All** policy that prevents access to all resources. Learn more about the types of [Azure policies](https://learn.microsoft.com/en-us/azure/governance/policy/overview) you can implement to allow access to Azure resources. 
 
-## Life Cycle:
+### Life Cycle:
 There are no Life Cycle settings in this lab profile.
 
-## Virtual Machines:
+### Virtual Machines:
 There are no virtual machine settings in this lab profile.
 
-## Networks:
+### Networks:
 There are no network settings in this lab profile.
 
-## Cloud Resources:
+### Cloud Resources:
 This is a base cloud template with no resources deployed.
