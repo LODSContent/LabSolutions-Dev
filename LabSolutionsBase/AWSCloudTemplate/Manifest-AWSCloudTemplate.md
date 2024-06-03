@@ -1,9 +1,9 @@
 ## Lab Profile Manifest
 
-### Virtual Machines
+### Cloud Settings
 
-#### GCP Cloud
->[+] Container Configuration
+#### AWS Cloud
+>[+] Cloud Configuration
 >
 | Item | Detail |
 |:---------|:---------|
@@ -13,29 +13,26 @@
 
 
 
-## Resource Templates
+#### Resource Templates
 >[+] For AWS cloud labs, Resource Templates are implemented through Cloud Formation Templates. 
 >
 >There are no Cloud Formation Templates in this base profile to deploy resources. Learn more about the types of resources you can deploy using [Cloud Formation Templates](https://aws.amazon.com/cloudformation/resources/templates/) in this profile. 
 
- 
 
-
-
-## Access Control Policies
+#### Access Control Policies
 >[+] For AWS cloud labs, Access Control Policies are implemented through IAM Policies. 
 >
 >The only policy currently in place on this base profile is a **Deny All** policy. Learn more about the types of [IAM policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html) you can implement to allow access to AWS resources. 
 
 
-## Life Cycle:
+### Life Cycle:
 There are no Life Cycle settings in this lab profile.
 
-## Virtual Machines:
+### Virtual Machines:
 There are no virtual machine settings in this lab profile.
 
-## Networks:
+### Networks:
 There are no network settings in this lab profile.
 
-## Cloud Resources:
+### Cloud Resources:
 This is a base cloud template with no resources deployed.
