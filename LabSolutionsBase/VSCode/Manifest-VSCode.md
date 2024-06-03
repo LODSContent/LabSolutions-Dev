@@ -8,7 +8,7 @@
 >
 | Item | Detail | | Item | Detail |
 |:---------|:---------| |:---------|:---------|
-| User | +++empty+++ | | IP Address   | **DHCP** |
+| User | **empty** | | IP Address   | **DHCP** |
 | Password | +++PASSWORD+++ | | CPU(s) | **2** |
 | Name   | **VS Code** | | RAM | **2 GB** |
 | Platform | **Docker** |
