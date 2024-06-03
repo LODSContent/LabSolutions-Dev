@@ -4,7 +4,7 @@
 
 #### Jupyter
 
->[+] Container Configuration
+>[+] Configuration
 >
 | Item | Detail | | Item | Detail |
 |:---------|:---------| |:---------|:---------|
@@ -17,7 +17,7 @@
 Want to learn more? Review the documentation on [Jupyter](https://jupyter.org/).
 
 
->[+] Container Software
+>[+] Software
 >
 >This is a Jupyter container with basic tools and Python language available. For more details, see the [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) documentation. 
 
