@@ -1,1 +1,1 @@
-The container in this profile is configured to run AWS Cloud labs with 2vCPUs, 2GB of RAM and internet access enabled. The graphical front-end for AWS Cloud is accessible from within the lab environment.
+This profile is configured to run GCP cloud labs using a customer provided subscription pool.
