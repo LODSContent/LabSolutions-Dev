@@ -2,7 +2,7 @@
 
 ### Virtual Machines
 
-#### Jupyter
+#### Azure Cloud CSR
 
 >[+] Container Configuration
 >
