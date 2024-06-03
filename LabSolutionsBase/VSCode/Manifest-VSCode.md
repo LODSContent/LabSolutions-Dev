@@ -13,7 +13,7 @@
 | Name   | **VS Code** | | RAM | **2 GB** |
 | Platform | **Docker** |
 
->[+] VM Software
+>[+] Software
 >
 >**VS Code**
 >
