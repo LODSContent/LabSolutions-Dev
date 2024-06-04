@@ -8,8 +8,8 @@
 | Item | Detail |
 |:---------|:---------|
 | Platform | **AWS** |
-| User | +++@lab.CloudPortalCredential(User1).Username+++ |
-| Password | +++@lab.CloudPortalCredential(User1).Password+++ |
+| User | ++@lab.CloudPortalCredential(User1).Username++ |
+| Password | ++@lab.CloudPortalCredential(User1).Password++ |
 
 
 
