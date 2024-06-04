@@ -8,8 +8,8 @@
 | Item | Detail |
 |:---------|:---------|
 | Platform | **Azure** |
-| User | +++@lab.CloudPortalCredential(User1).Username+++ |
-| Password | +++@lab.CloudPortalCredential(User1).Password+++ |
+| User | ++@lab.CloudPortalCredential(User1).Username++ |
+| Password | ++@lab.CloudPortalCredential(User1).Password++ |
 | Resource Group | **@lab.CloudResourceGroup(ResourceGroup1).Name**|
 
 
