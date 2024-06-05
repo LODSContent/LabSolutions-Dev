@@ -8,8 +8,8 @@
 >
 | Item | Detail | | Item | Detail |
 |:---------|:---------| |:---------|:---------|
-| User |+++@lab.VirtualMachine(WS2022).Username+++| | IP Address   | **DHCP**   |
-| Password |+++@lab.VirtualMachine(WS2022).Password+++| | CPU(s) | **6** |
+| User |+++@lab.VirtualMachine(Server1).Username+++| | IP Address   | **DHCP**   |
+| Password |+++@lab.VirtualMachine(Server1).Password+++| | CPU(s) | **6** |
 | Name   | **WS2022 Base** | | RAM | **4.5 GB** |
 | Platform | **ESX** | | HD 1 | **100 GB** |
 | OS | **Windows** | | NIC(s) | **1** |
