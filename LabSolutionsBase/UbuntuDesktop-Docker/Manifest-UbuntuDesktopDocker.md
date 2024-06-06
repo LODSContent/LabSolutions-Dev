@@ -2,7 +2,7 @@
 
 ### Virtual Machines
 
-#### -Ubuntu Desktop - Docker
+#### Ubuntu Desktop - Docker
 
 >[+] Container Configuration
 >
