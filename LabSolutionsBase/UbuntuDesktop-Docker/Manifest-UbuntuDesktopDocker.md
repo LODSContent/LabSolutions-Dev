@@ -2,7 +2,7 @@
 
 ### Virtual Machines
 
-#### Jupyter
+#### -Ubuntu Desktop - Docker
 
 >[+] Container Configuration
 >
@@ -15,7 +15,7 @@
 | IP Address   | **DHCP** |
 | CPU(s) | +++2+++ |
 
-Want to learn more? Review the documentation on [Jupyter](https://jupyter.org/).
+Want to learn more? Review the documentation on [Docker]([https://jupyter.org/](https://docs.docker.com/)).
 
 
 >[+] VM Software
