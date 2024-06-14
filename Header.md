@@ -13,7 +13,7 @@
 </style>
 
 <center>
-!IMAGE[SkillableLSIsmall.png](instructions263965/SkillableLSIsmall.png)
+!IMAGE[SkillableLSIsmall.png](https://raw.githubusercontent.com/LODSContent/LabSolutions-Dev/main/SkillableLSIsmall.png)
 
 @lab.Title
 
