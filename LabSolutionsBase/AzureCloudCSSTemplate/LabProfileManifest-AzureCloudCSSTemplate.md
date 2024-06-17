@@ -1,1 +1,0 @@
-The lab profile and cloud settings for this base environment are described below. Details include cloud and lab profile settings that may be applicable to this environment.
